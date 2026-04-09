@@ -39,7 +39,7 @@ const projects: Project[] = [
     image: sanjeevaniImage,
     tools: ['AI/ML', 'NLP', 'Healthcare APIs'],
     role: 'AI Development · UX Design',
-    link: 'https://sanjeevani-five.vercel.app/',
+    link: 'https://sanjeevani-iota.vercel.app/',
   },
   {
     title: 'Trinetra',
